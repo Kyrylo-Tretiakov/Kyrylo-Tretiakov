@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyrylo</h1>
-<h3 align="center">Enthusiastic Junior Java developer</h3>
+<h3 align="center">Enthusiastic Full Stack developer</h3>
 
 - 🔭 I’m currently working at **Luxoft**
 
