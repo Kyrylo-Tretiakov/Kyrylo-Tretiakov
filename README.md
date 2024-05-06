@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyrylo Tretiakov</h1>
 <h3 align="center">Enthusiastic Full Stack developer</h3>
 
-- 🔭 I’m currently working at **Luxoft**
+- 🔭 I’m currently working at **UpWork**
 
 - 📫 How to reach me **kyrylo.tretyakov@gmail.com**
 
