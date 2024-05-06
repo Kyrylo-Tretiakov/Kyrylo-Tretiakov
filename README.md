@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kyrylo-tretiakov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kyrylo-tretiakov/" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~016a7e1cd7f2d122f1" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/upwork_logo_icon_170310.png" alt="https://cdn.icon-icons.com/icons2/2699/PNG/512/upwork_logo_icon_170310.png" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
